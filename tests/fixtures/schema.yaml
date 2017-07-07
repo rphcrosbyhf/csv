@@ -1,0 +1,9 @@
+fields:
+  - name: header_1
+    rules:
+      maxLength: 10
+      minLength: 1
+  - name: header_2
+    rules:
+      maxLength: 2
+      minLength: 1
